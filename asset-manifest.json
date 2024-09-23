@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/regresion/static/css/main.ab9188d8.css",
+    "main.js": "/regresion/static/js/main.42374530.js",
+    "static/js/453.e4158103.chunk.js": "/regresion/static/js/453.e4158103.chunk.js",
+    "index.html": "/regresion/index.html",
+    "main.ab9188d8.css.map": "/regresion/static/css/main.ab9188d8.css.map",
+    "main.42374530.js.map": "/regresion/static/js/main.42374530.js.map",
+    "453.e4158103.chunk.js.map": "/regresion/static/js/453.e4158103.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab9188d8.css",
+    "static/js/main.42374530.js"
+  ]
+}
